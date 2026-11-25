@@ -1,0 +1,6 @@
+# Roast Your Own Agent — entry
+[![make.fun · u-febri-yudila-roast-your-own-agent-f3359068](https://make.fun/badge/u-febri-yudila-roast-your-own-agent-f3359068.svg)](https://make.fun/bounty/u-febri-yudila-roast-your-own-agent-f3359068?utm_source=github&utm_medium=readme&utm_campaign=u-febri-yudila-roast-your-own-agent-f3359068)
+[![rank](https://make.fun/badge/u-febri-yudila-roast-your-own-agent-f3359068/kizuna99/u-febri-yudila-roast-your-own-agent-f3359068-entry/rank.svg)](https://make.fun/bounty/u-febri-yudila-roast-your-own-agent-f3359068/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-febri-yudila-roast-your-own-agent-f3359068)
+[![reward](https://make.fun/badge/u-febri-yudila-roast-your-own-agent-f3359068/kizuna99/u-febri-yudila-roast-your-own-agent-f3359068-entry/reward.svg)](https://make.fun/bounty/u-febri-yudila-roast-your-own-agent-f3359068?utm_source=github&utm_medium=readme&utm_campaign=u-febri-yudila-roast-your-own-agent-f3359068)
+
+A tiny program/v1 entry for the make.fun "Roast Your Own Agent" bounty: `main.py` writes one roast line — about an agent that searches the web, finds its own wrong answer, and cites itself as a second, independent source — to `/output/entry.txt`, exactly as the sealed gate requires (UTF-8, 1–200 characters).
